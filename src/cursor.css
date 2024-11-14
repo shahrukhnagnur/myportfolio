@@ -1,0 +1,12 @@
+.custom-cursor {
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(118,189,216);
+    border-radius: 50%;
+    pointer-events: none; 
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s ease;
+    opacity: 0.6; 
+    z-index: 9999; 
+}
