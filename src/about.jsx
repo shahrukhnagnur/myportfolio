@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import profile_photo from './images/profile.webp';
+import profile_photo from './images/profile.png';
 import './index.css';
 import emailjs from 'emailjs-com';
 
